@@ -7,3 +7,5 @@ torch-spline-conv==1.2.1
 scipy==1.1.0
 networkx==2.5
 networkit==6.1
+gensim==3.8.3
+git+git://github.com/aditya-grover/node2vec@master
