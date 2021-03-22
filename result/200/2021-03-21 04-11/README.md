@@ -16,3 +16,6 @@
 - batch_size: 32
 - epochs: 100
 - Save model based on best validation evaluation of top 10
+
+# Result
+![](train_plt.png)
