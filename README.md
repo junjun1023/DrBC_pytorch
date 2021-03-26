@@ -2,7 +2,7 @@
 
 ## Self-defined module
 
-- uils/
+- uils
         - baseline: wrap baseline methods to functions
         - data: utilities for data read
         - eval: utilities for evaluation
