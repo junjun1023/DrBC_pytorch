@@ -10,5 +10,5 @@ All results are saved in the directories named with the timestamp of execution.
 ### High-CC Prediction
 - [2021-03-24 08-48/](/result/2021-03-24 08-48/)
 
-### [scales](/result/scales/)
+### [scales/](/result/scales/)
 - comparison for different scales of DrBC
