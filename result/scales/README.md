@@ -4,6 +4,11 @@
 - PR: sigmoid(bc[det] - bc[src])
 - Save model based on best validation evaluation of top 10
 
+# Train procedure
+
+![](comp.png)
+
+
 # Test Result
 - CPU
 
