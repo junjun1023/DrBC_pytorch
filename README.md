@@ -1,5 +1,13 @@
 # Learning to Identify High BC Nodes
 
+## Self-defined module
+
+- uils/
+        - baseline: wrap baseline methods to functions
+        - data: utilities for data read
+        - eval: utilities for evaluation
+- drbc: define DrBC model
+
 ## [result/](result)
 
 All results are saved in the directories named with the timestamp of execution.
