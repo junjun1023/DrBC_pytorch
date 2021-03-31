@@ -75,8 +75,7 @@ def run_kbc(edge_lists, scores, x_sep, y_sep, usecols):
 
                 base = os.path.splitext(os.path.basename(edge_list))[0]
                         
-                G_nx = nx.readwrite.edgelist.read_edgelist(edge_list, delimiter=x_sep
-                )
+                G_nx = nx.readwrite.edgelist.read_edgelist(edge_list, delimiter=x_sep)
                 G_pyg = from_networkx(G_nx)
                 
                 arr = np.array([G_pyg.x.shape[0], G_pyg.edge_index.shape[1]]).reshape((1, 2))
